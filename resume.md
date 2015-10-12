@@ -30,15 +30,21 @@ title: Resume
 * *Co-founder and Developer:* Developed an automated investing application for P2P lending. PeerTrader is an SEC Registered Investment Advisor.
 * *Technologies:* Haskell, AngularJS, PostgreSQL, ØMQ
 
+[*Bitnomial*](http://bitnomial.com) 2015-*present*
+
+* *Bitcoin developer:* Developed security/clearing systems for Bitcoin Futures
+  Exchange.
+* *Technologies:* Haskell, Bitcoin, PostgreSQL
+
 ## Computer Skills
 
-* *Languages:* Haskell, Java, C, C++, JavaScript, OCaml, MATLAB, Mathematica, perl, LaTeX, bash, awk, x86, ARM, MIPS, SPARC
-* *Tools:* git, svn, cabal, make, cmake, ant, vim, JIRA
+* *Languages:* Haskell, Java, C, C++, JavaScript, OCaml, MATLAB, Mathematica, perl, emacs lisp, LaTeX, bash, awk, x86, ARM, MIPS, SPARC
+* *Tools:* git, svn, cabal, make, cmake, ant, emacs, vim, JIRA
 * *Libraries:* Snap, ØMQ, STM, OpenGL, GLSL, SDL, Swing, ncurses, Android SDK, Enterprise Java
 
 ## Interests
 
-* Compilers, Domain-specific Languages, Physics Simulations, 3D Graphics, Types
+* Bitcoin, Compilers, Domain-specific Languages, Physics Simulations, 3D Graphics, Types
 
 ## Publications
 
@@ -48,9 +54,17 @@ Adv. Func. Mater. **22** (9), 1972-1980 (2012).
 * J. Antonaglia, X. Xie, G. Schwarz, M. Wraith, J. Qiao, Y. Zhang, P. Liaw, J. Uhl, K. Dahmen. 
 [Tuned Critical Avalanche Scaling in Bulk Metallic Glasses.](http://www.nature.com/srep/2014/140317/srep04382/full/srep04382.html)
 Sci. Rep. **4**, (2014).
+* R. Maaß, M. Wraith, J. T. Uhl, J. R. Greer, and K. A. Dahmen.
+[Slip Statistics of Dislocation Avalanches Under Different Loading
+Modes](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.042403)
+Phys. Rev. E **91**, (2015).
 
 ## Talks
 
 * "Avalanche Statistics in Micro-Pillar Compression," SURF Seminar, Caltech (2012).
 * "Avalanche Statistics: Universality over Boundary Conditions," 12th Annual Undergraduate Symposium, UIUC (2013).
 * ["Software Transactional Memory: TVars, TChans, and More,"](https://slides.com/wraithm/deck) Chicago Haskell Group, (2015).
+* ["What is Bitcoin?: How Value can be Sent through the Internet without A Third
+  Party via the Blockchain."](http://bitnomial.org) Startup Institute at 1871, (2015).
+* ["What is Bitcoin?: How Value can be Sent through the Internet without A Third
+  Party via the Blockchain."](http://bitnomial.org) Jump Labs, (2015).
