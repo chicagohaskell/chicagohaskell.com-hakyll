@@ -45,7 +45,7 @@ title: Resume
 
 * *Languages:* Haskell, Java, C, C++, JavaScript, OCaml, MATLAB, Mathematica,
   perl, emacs lisp, LaTeX, bash, awk, x86, ARM, MIPS, SPARC
-* *Tools:* git, svn, cabal, make, cmake, ant,
+* *Tools:* git, hg, svn, cabal, stack, make, cmake, ant,
   [emacs](https://github.com/WraithM/emacs.d),
   [vim](https://github.com/WraithM/dotfiles/blob/master/.vimrc), JIRA
 * *Libraries:* Snap, ØMQ, STM, OpenGL, GLSL, SDL, Swing, ncurses, Android SDK,
