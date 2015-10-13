@@ -28,3 +28,7 @@ cmun-serif.css
 *.jpg
 *.svg
 *.pdf
+
+*.pem
+*.crt
+*.csr
