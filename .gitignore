@@ -9,6 +9,7 @@ cabal.sandbox.config
 *.chs.h
 .virthualenv
 log
+.stack-work
 
 # Project specifics
 users.json

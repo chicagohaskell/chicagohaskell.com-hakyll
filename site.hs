@@ -2,6 +2,7 @@
 
 import           Data.Monoid (mappend)
 import           Hakyll
+import           Hakyll.Web.Sass
 
 main :: IO ()
 main = hakyll $ do
@@ -13,7 +14,11 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
-    match "css/*" $ do
+    match "css/*.scss" $ do
+        route   $ setExtension "css"
+        compile $ fmap compressCss <$> sassCompiler
+
+    match "css/*.css" $ do
         route   idRoute
         compile compressCssCompiler
 
