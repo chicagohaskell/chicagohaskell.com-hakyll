@@ -13,3 +13,5 @@ dist/
 \.tfstate\.backup$
 \.terraform/
 \.stack-work/
+^_site/
+^_cache/

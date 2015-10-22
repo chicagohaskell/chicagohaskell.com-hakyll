@@ -1,27 +1,38 @@
 <div class="row">
-  <!-- Projects -->
-  <div class="col-md-8">
-    <h2>Projects</h2>
+  <div class="col-md-4">
+    <h3>Colophon</h3>
     <ul>
-      <li><a href="http://github.com/ChicagoHaskell/stripe" target="_blank">Stripe</a>
-        <ul>
-          <li><a href="https://github.com/WraithM/prosper" target="_blank">Prosper</a></li>
-          <li><a href="https://github.com/WraithM/lendingclub" target="_blank">Lending Club</a></li>
-        </ul>
-      </li>
+      <li><a href="https://twitter.com/ChicagoHaskell">Twitter</a></li>
+      <li><a href="https://groups.google.com/forum/#!forum/chicago-haskell">Mailing List</a></li>
+      <li><a href="irc://freenode.net/#ChicagoHaskell">IRC</a></li>
+      <li><a href="https://github.com/ChicagoHaskell">GitHub</a></li>
+      <li><a href="https://www.meetup.com/Chicago-Haskell/">Meetup</a></li>
+      <li><a href="https://www.youtube.com/channel/UCicD3sjxyC8veXiqP9pOHnA">YouTube</a></li>
     </ul>
   </div>
 
-  <!-- Blog posts / Speaking -->
   <div class="col-md-4">
-    <h2>Posts</h2>
-    <a href="/archive.html">Archives</a>
-    $partial("templates/post-list.html")$
-
-    <h2>Speaking</h2>
+    <h3>Projects</h3>
     <ul>
-      <li><a href="https://slides.com/wraithm/deck" target="_blank">STM: TVars, TChans, and More</a></li>
-      <li><a href="images/Wraith_BitcoinTalk.pdf" target="_blank">What is Bitcoin?</a></li>
+      <li><a href="https://twitter.com/ChicagoHaskell">Twitter</a></li>
+      <li><a href="https://groups.google.com/forum/#!forum/chicago-haskell">Mailing List</a></li>
+      <li><a href="irc://freenode.net/#ChicagoHaskell">IRC</a></li>
+      <li><a href="https://github.com/ChicagoHaskell">GitHub</a></li>
+      <li><a href="https://www.meetup.com/Chicago-Haskell/">Meetup</a></li>
+      <li><a href="https://www.youtube.com/channel/UCicD3sjxyC8veXiqP9pOHnA">YouTube</a></li>
     </ul>
+  </div>
+
+  <div class="col-md-4">
+    <h3>Upcoming Events</h3>
+    <div id="upcoming-events">
+      $partial("templates/post-list.html")$
+    </div>
+
+    <h3>Previous Events</h3>
+    <div id="previous-events">
+      $partial("templates/post-list.html")$
+      <a href="/archive.html">[&hellip;]</a>
+    </div>
   </div>
 </div>

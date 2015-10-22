@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-E-mail: 
+E-mail:
 - [luke@chicagohaskell.com](mailto:luke@chicagohaskell.com)
 - [matt@chicagohaskell.com](mailto:matt@chicagohaskell.com)
 - [jeremy@chicagohaskell.com](mailto:jeremy@chicagohaskell.com)
