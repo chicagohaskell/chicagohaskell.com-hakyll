@@ -1,0 +1,15 @@
+syntax: regexp
+~$
+\#.*\#$
+\.\#
+\.DS_Store$
+\.cabal-sandbox/
+\.vagrant/
+\.hpc/
+\.tix$
+cabal\.sandbox\.config$
+\.shake\.database$
+dist/
+\.tfstate\.backup$
+\.terraform/
+\.stack-work/
