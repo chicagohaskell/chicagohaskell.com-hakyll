@@ -2,14 +2,13 @@
 title: Contact
 ---
 
-E-mail: [wraithm@gmail.com](mailto:wraithm@gmail.com)
+E-mail: 
+- [luke@chicagohaskell.com](mailto:luke@chicagohaskell.com)
+- [matt@chicagohaskell.com](mailto:matt@chicagohaskell.com)
+- [jeremy@chicagohaskell.com](mailto:jeremy@chicagohaskell.com)
+- [david@chicagohaskell.com](mailto:david@chicagohaskell.com)
+- [reid@chicagohaskell.com](mailto:reid@chicagohaskell.com)
 
-Twitter: [\@wraith_m](https://www.twitter.com/wraith_m)
+Twitter: [\@ChicagoHaskell](https://www.twitter.com/ChicagoHaskell)
 
-[github](https://www.github.com/WraithM)
-
-[PGP Public Key](https://keybase.io/wraithm/key.asc)
-
-[bitcoin](https://www.coinbase.com/wraithm)
-
-![1P6nqYpK4ZBUt6ptx9xa4JeEDYWevgaWgh](/images/bitcoinaddr.png)
+[github](https://www.github.com/ChicagoHaskell)

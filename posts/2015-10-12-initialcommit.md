@@ -1,5 +1,6 @@
 ---
-title: opaleye-trans: An Opaleye Monad Transformer
+title: Chicago Haskell has a new website!
+author: Luke Hoersten
 ---
 
 
